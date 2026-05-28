@@ -1,0 +1,981 @@
+{
+  "sessions": {
+    "123": {
+      "sessionId": "123",
+      "entries": [
+        {
+          "id": "9f1ccab1-a46f-4c44-be79-f7c51ab2e1e1",
+          "topic": "transformer",
+          "summary": "A narrative explanation of transformer mapping an everyday analogy to core facts.",
+          "timestamp": 1777656711354,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for transformer used an analogy-first approach, mapped to RAG data, and provided engaging activities. It started from a blank memory state. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after transformer",
+          "resourcesUsed": [
+            {
+              "title": "PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture",
+              "url": "http://arxiv.org/abs/2201.00978v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Learning to Cluster Faces via Transformer",
+              "url": "http://arxiv.org/abs/2104.11502v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "MLP Can Be A Good Transformer Learner",
+              "url": "http://arxiv.org/abs/2404.05657v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "transformer – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=transformer%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        }
+      ]
+    },
+    "demo-session": {
+      "sessionId": "demo-session",
+      "entries": [
+        {
+          "id": "e31e3731-a9fa-4d5d-9ca6-61fdd8ec8863",
+          "topic": "Photosynthesis",
+          "summary": "A structured overview of Photosynthesis with review questions for active recall.",
+          "timestamp": 1775248339484,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for Photosynthesis covered overview, concepts, subtopics, and practice prompts. It started from a blank memory state. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after Photosynthesis",
+          "source": "fallback"
+        }
+      ]
+    },
+    "5493006e-10d4-4ea1-b43e-1f751e4865ea": {
+      "sessionId": "5493006e-10d4-4ea1-b43e-1f751e4865ea",
+      "entries": [
+        {
+          "id": "d539fea4-55ac-41c8-a99a-4cb3ea165b01",
+          "topic": "encoder in llms",
+          "summary": "A narrative explanation of encoder in llms mapping an everyday analogy to core facts.",
+          "timestamp": 1777662683314,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for encoder in llms used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 35 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after encoder in llms",
+          "resourcesUsed": [
+            {
+              "title": "Number Representations in LLMs: A Computational Parallel to Human Perception",
+              "url": "http://arxiv.org/abs/2502.16147v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Current state of LLM Risks and AI Guardrails",
+              "url": "http://arxiv.org/abs/2406.12934v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "You Need an Encoder for Native Position-Independent Caching",
+              "url": "http://arxiv.org/abs/2602.01519v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "encoder in llms – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=encoder%20in%20llms%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "da7a758a-6cac-4fc9-8f15-4fed7a07e2e9",
+          "topic": "encoder in llms",
+          "summary": "A narrative explanation of encoder in llms mapping an everyday analogy to core facts.",
+          "timestamp": 1777657146761,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for encoder in llms used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 34 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after encoder in llms",
+          "resourcesUsed": [
+            {
+              "title": "Number Representations in LLMs: A Computational Parallel to Human Perception",
+              "url": "http://arxiv.org/abs/2502.16147v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Current state of LLM Risks and AI Guardrails",
+              "url": "http://arxiv.org/abs/2406.12934v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "You Need an Encoder for Native Position-Independent Caching",
+              "url": "http://arxiv.org/abs/2602.01519v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "encoder in llms – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=encoder%20in%20llms%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "7479501b-89e6-4c77-aa5c-6ce6e5dc2142",
+          "topic": "encoder in llms",
+          "summary": "A narrative explanation of encoder in llms mapping an everyday analogy to core facts.",
+          "timestamp": 1777656354894,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for encoder in llms used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 33 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after encoder in llms",
+          "resourcesUsed": [
+            {
+              "title": "Number Representations in LLMs: A Computational Parallel to Human Perception",
+              "url": "http://arxiv.org/abs/2502.16147v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Current state of LLM Risks and AI Guardrails",
+              "url": "http://arxiv.org/abs/2406.12934v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "You Need an Encoder for Native Position-Independent Caching",
+              "url": "http://arxiv.org/abs/2602.01519v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "encoder in llms – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=encoder%20in%20llms%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "1819081a-9180-42bb-89b9-2fdf6a51ee18",
+          "topic": "encoder in llms",
+          "summary": "A narrative explanation of encoder in llms mapping an everyday analogy to core facts.",
+          "timestamp": 1777654669893,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for encoder in llms used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 32 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after encoder in llms",
+          "resourcesUsed": [
+            {
+              "title": "Number Representations in LLMs: A Computational Parallel to Human Perception",
+              "url": "http://arxiv.org/abs/2502.16147v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Current state of LLM Risks and AI Guardrails",
+              "url": "http://arxiv.org/abs/2406.12934v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "You Need an Encoder for Native Position-Independent Caching",
+              "url": "http://arxiv.org/abs/2602.01519v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "encoder in llms – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=encoder%20in%20llms%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "3f738f49-d58c-4d65-bba4-48b1ef71db02",
+          "topic": "encoder in llm",
+          "summary": "A narrative explanation of encoder in llm mapping an everyday analogy to core facts.",
+          "timestamp": 1777653877776,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for encoder in llm used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 31 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after encoder in llm",
+          "resourcesUsed": [
+            {
+              "title": "Investigating Redundancy in Multimodal Large Language Models with Multiple Vision Encoders",
+              "url": "http://arxiv.org/abs/2507.03262v4",
+              "source": "arXiv"
+            },
+            {
+              "title": "You Need an Encoder for Native Position-Independent Caching",
+              "url": "http://arxiv.org/abs/2602.01519v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+              "url": "http://arxiv.org/abs/2306.05212v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "encoder in llm – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=encoder%20in%20llm%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "c7186981-7c89-4504-8957-f66642199930",
+          "topic": "t",
+          "summary": "A narrative explanation of t mapping an everyday analogy to core facts.",
+          "timestamp": 1777653841845,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for t used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 30 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after t",
+          "resourcesUsed": [
+            {
+              "title": "The Physics of the B Factories",
+              "url": "http://arxiv.org/abs/1406.6311v4",
+              "source": "arXiv"
+            },
+            {
+              "title": "Expected Performance of the ATLAS Experiment - Detector, Trigger and Physics",
+              "url": "http://arxiv.org/abs/0901.0512v4",
+              "source": "arXiv"
+            },
+            {
+              "title": "Observation of the rare $B^0_s\\toμ^+μ^-$ decay from the combined analysis of CMS and LHCb data",
+              "url": "http://arxiv.org/abs/1411.4413v2",
+              "source": "arXiv"
+            },
+            {
+              "title": "t – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=t%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "2341a088-cff7-4b3e-9747-5b17f3f75ea0",
+          "topic": "transformer",
+          "summary": "A narrative explanation of transformer mapping an everyday analogy to core facts.",
+          "timestamp": 1777653830189,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for transformer used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 29 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after transformer",
+          "resourcesUsed": [
+            {
+              "title": "PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture",
+              "url": "http://arxiv.org/abs/2201.00978v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Learning to Cluster Faces via Transformer",
+              "url": "http://arxiv.org/abs/2104.11502v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "MLP Can Be A Good Transformer Learner",
+              "url": "http://arxiv.org/abs/2404.05657v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "transformer – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=transformer%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "a6c70f93-0f49-484f-8bd0-d74f158919a6",
+          "topic": "transformer",
+          "summary": "A structured overview of transformer with review questions for active recall.",
+          "timestamp": 1777653337992,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for transformer covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 28 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after transformer",
+          "resourcesUsed": [
+            {
+              "title": "transformer on arXiv",
+              "url": "https://arxiv.org/search/?query=transformer&searchtype=all",
+              "source": "arXiv"
+            },
+            {
+              "title": "transformer – Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=transformer",
+              "source": "Google Scholar"
+            },
+            {
+              "title": "transformer – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=transformer%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "d5988e09-f0e2-4334-aa28-508acbf87296",
+          "topic": "transformer",
+          "summary": "Transformers are neural network architectures central to modern Large Language Models, characterized by distinct input, hidden (featuring Multi-Head Attention), and output layers. They process sequential data, enabling applications like machine translation and text generation. While powerful, foundational Transformer models have limitations in areas like human-like conversation, math skills, and ethical alignment, which are continually being addressed through fine-tuning and ongoing research.",
+          "timestamp": 1777652854123,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for transformer covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 27 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "Multi-Head Attention",
+          "resourcesUsed": [
+            {
+              "title": "transformer on arXiv",
+              "url": "https://arxiv.org/search/?query=transformer&searchtype=all",
+              "source": "arXiv"
+            },
+            {
+              "title": "transformer – Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=transformer",
+              "source": "Google Scholar"
+            },
+            {
+              "title": "transformer – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=transformer%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "gemini"
+        },
+        {
+          "id": "bb12174f-d50d-411e-a798-f81a4a56604b",
+          "topic": "transformer",
+          "summary": "A structured overview of transformer with review questions for active recall.",
+          "timestamp": 1777651444845,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for transformer covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 26 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after transformer",
+          "resourcesUsed": [
+            {
+              "title": "transformer on arXiv",
+              "url": "https://arxiv.org/search/?query=transformer&searchtype=all",
+              "source": "arXiv"
+            },
+            {
+              "title": "transformer – Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=transformer",
+              "source": "Google Scholar"
+            },
+            {
+              "title": "transformer – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=transformer%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "0af2ef03-7117-4c59-ba2a-2481c00e3125",
+          "topic": "transformers",
+          "summary": "A structured overview of transformers with review questions for active recall.",
+          "timestamp": 1777646470685,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for transformers covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 25 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after transformers",
+          "resourcesUsed": [
+            {
+              "title": "Transformers",
+              "url": "https://en.wikipedia.org/wiki/Transformers",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Transformers (film series)",
+              "url": "https://en.wikipedia.org/wiki/Transformers%20(film%20series)",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Transformers: Revenge of the Fallen",
+              "url": "https://en.wikipedia.org/wiki/Transformers%3A%20Revenge%20of%20the%20Fallen",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part I: Basic Concepts, Neural Networks, and Variants",
+              "url": "http://arxiv.org/abs/2512.22190v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II: Physics-Informed Neural Networks and Uncertainty Quantification",
+              "url": "http://arxiv.org/abs/2512.22189v1",
+              "source": "arXiv"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "16fbd30d-4390-4a95-b0aa-8240210eeda0",
+          "topic": "transformer",
+          "summary": "Fallback response for transformer.",
+          "timestamp": 1777646073863,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught transformer using only uploaded materials. It also had 24 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Another concept related to transformer",
+          "resourcesUsed": [],
+          "source": "fallback"
+        },
+        {
+          "id": "602a2a15-6375-496f-8f74-236468657f77",
+          "topic": "Feedforward layer",
+          "summary": "Fallback response for Feedforward layer.",
+          "timestamp": 1777645759880,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught Feedforward layer using only uploaded materials. It also had 23 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Another concept related to Feedforward layer",
+          "resourcesUsed": [],
+          "source": "fallback"
+        },
+        {
+          "id": "3d0e3677-f18a-4867-888e-b4a6d353a211",
+          "topic": "encoder",
+          "summary": "The uploaded course materials do not contain information regarding 'encoders'.",
+          "timestamp": 1777645731415,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught encoder using only uploaded materials. It also had 22 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Large Language Models",
+          "resourcesUsed": [],
+          "source": "gemini"
+        },
+        {
+          "id": "707f6317-5355-4d13-a972-b2d155520019",
+          "topic": "llms",
+          "summary": "Large Language Models (LLMs) are essential for text generation, encompassing open and closed-source variants. Their development involves techniques such as RL-based training and Chain-of-Thought reasoning for enhanced performance on complex tasks. Optimization methods like knowledge distillation and on-policy distillation are used to refine their outputs and learning efficiency. Furthermore, output-preserving techniques focus on optimizing inference without altering the model's quality.",
+          "timestamp": 1777645624985,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught llms using only uploaded materials. It also had 21 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Distillation Techniques in LLMs",
+          "resourcesUsed": [],
+          "source": "gemini"
+        },
+        {
+          "id": "04df2d28-5722-4eb9-93a2-4e2f4ce17ff5",
+          "topic": "llm",
+          "summary": "Fallback response for llm.",
+          "timestamp": 1777645568391,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught llm using only uploaded materials. It also had 20 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Another concept related to llm",
+          "resourcesUsed": [],
+          "source": "fallback"
+        },
+        {
+          "id": "39d0174d-cf31-4c52-bf41-5885e631e551",
+          "topic": "llm",
+          "summary": "Large Language Models (LLMs) are central to text generation, with an evolving landscape of open and closed-source variants. Models like DeepSeek-R1 demonstrate the use of RL-based training and Chain-of-Thought reasoning for complex tasks, highlighting the importance of training transparency. Distillation techniques, such as knowledge and on-policy distillation, are also employed to optimize and refine these models.",
+          "timestamp": 1777643001290,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught llm using only uploaded materials. It also had 19 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Distillation Techniques for Models",
+          "resourcesUsed": [],
+          "source": "gemini"
+        },
+        {
+          "id": "fcd37378-f868-428f-af79-a07b8555cc13",
+          "topic": "transformertransformer",
+          "summary": "Fallback response for transformertransformer.",
+          "timestamp": 1777642622633,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught transformertransformer using only uploaded materials. It also had 18 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Another concept related to transformertransformer",
+          "resourcesUsed": [],
+          "source": "fallback"
+        },
+        {
+          "id": "36b22571-561d-406c-b8b6-979241b87cfe",
+          "topic": "transformer",
+          "summary": "Fallback response for transformer.",
+          "timestamp": 1777642485288,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught transformer using only uploaded materials. It also had 17 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Another concept related to transformer",
+          "resourcesUsed": [],
+          "source": "fallback"
+        },
+        {
+          "id": "242ff3bd-e185-4455-ac79-3168e0c0f57b",
+          "topic": "transformer",
+          "summary": "Fallback response for transformer.",
+          "timestamp": 1777641730796,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught transformer using only uploaded materials. It also had 16 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Another concept related to transformer",
+          "resourcesUsed": [],
+          "source": "fallback"
+        },
+        {
+          "id": "9b08addd-2d71-41e0-8b10-c4f622ac2c07",
+          "topic": "transformer",
+          "summary": "Fallback response for transformer.",
+          "timestamp": 1777641357334,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught transformer using only uploaded materials. It also had 15 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Another concept related to transformer",
+          "resourcesUsed": [],
+          "source": "fallback"
+        },
+        {
+          "id": "fb7ba478-438c-42e8-9b07-9ea4ed44f123",
+          "topic": "twbr",
+          "summary": "Fallback response for twbr.",
+          "timestamp": 1777641236887,
+          "type": "teach",
+          "reflection": "Score 100/100. The tutor taught twbr using only uploaded materials. It also had 14 memory entries available for personalization. Improve next time by connecting it to another subtopic from the outline.",
+          "nextTopicSuggestion": "Another concept related to twbr",
+          "resourcesUsed": [],
+          "source": "fallback"
+        },
+        {
+          "id": "38cfd438-ff86-4876-b1e2-c6d2cd9cc656",
+          "topic": "transformers",
+          "summary": "A structured overview of transformers with review questions for active recall.",
+          "timestamp": 1777640154632,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for transformers covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 13 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after transformers",
+          "resourcesUsed": [
+            {
+              "title": "Transformers",
+              "url": "https://en.wikipedia.org/wiki/Transformers",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Transformers (film series)",
+              "url": "https://en.wikipedia.org/wiki/Transformers%20(film%20series)",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Transformers: Revenge of the Fallen",
+              "url": "https://en.wikipedia.org/wiki/Transformers%3A%20Revenge%20of%20the%20Fallen",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part I: Basic Concepts, Neural Networks, and Variants",
+              "url": "http://arxiv.org/abs/2512.22190v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II: Physics-Informed Neural Networks and Uncertainty Quantification",
+              "url": "http://arxiv.org/abs/2512.22189v1",
+              "source": "arXiv"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "f0bf32d2-ff8e-47aa-9222-feedf79372ea",
+          "topic": "fundamentals of ML",
+          "summary": "A structured overview of fundamentals of ML with review questions for active recall.",
+          "timestamp": 1777630168536,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for fundamentals of ML covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 12 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after fundamentals of ML",
+          "resourcesUsed": [
+            {
+              "title": "The Fundamentals of Caring",
+              "url": "https://en.wikipedia.org/wiki/The%20Fundamentals%20of%20Caring",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Fundamentals of Engineering exam",
+              "url": "https://en.wikipedia.org/wiki/Fundamentals%20of%20Engineering%20exam",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Fundamentals of Physics",
+              "url": "https://en.wikipedia.org/wiki/Fundamentals%20of%20Physics",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Towards Smart Healthcare: Challenges and Opportunities in IoT and ML",
+              "url": "http://arxiv.org/abs/2312.05530v2",
+              "source": "arXiv"
+            },
+            {
+              "title": "Machine Learning for Everyone: Simplifying Healthcare Analytics with BigQuery ML",
+              "url": "http://arxiv.org/abs/2502.07026v2",
+              "source": "arXiv"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "ecd3e4cd-f891-4ded-86db-29a5dd9a2e9f",
+          "topic": "genai",
+          "summary": "A structured overview of genai with review questions for active recall.",
+          "timestamp": 1775249827236,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for genai covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 11 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after genai",
+          "resourcesUsed": [
+            {
+              "title": "Generative AI",
+              "url": "https://en.wikipedia.org/wiki/Generative%20AI",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Genain quadruplets",
+              "url": "https://en.wikipedia.org/wiki/Genain%20quadruplets",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Genaille–Lucas rulers",
+              "url": "https://en.wikipedia.org/wiki/Genaille%E2%80%93Lucas%20rulers",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "GenAI at the Edge: Comprehensive Survey on Empowering Edge Devices",
+              "url": "http://arxiv.org/abs/2502.15816v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "GenAI Content Detection Task 1: English and Multilingual Machine-Generated Text Detection: AI vs. Human",
+              "url": "http://arxiv.org/abs/2501.11012v2",
+              "source": "arXiv"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "5263d19e-a433-463c-ac11-61acdc6d4320",
+          "topic": "cureent iran usa israel war",
+          "summary": "A structured overview of cureent iran usa israel war with review questions for active recall.",
+          "timestamp": 1775249802553,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for cureent iran usa israel war covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 10 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after cureent iran usa israel war",
+          "resourcesUsed": [
+            {
+              "title": "A Recommendation for Net Undercount Estimation in Iran Population and Dwelling Censuses",
+              "url": "http://arxiv.org/abs/1910.05620v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "NuSTAR Discovery of a cyclotron line in KS 1947+300",
+              "url": "http://arxiv.org/abs/1403.1901v1",
+              "source": "arXiv"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "8849fafe-e4db-433c-999a-7e77dbb08d26",
+          "topic": "www 3",
+          "summary": "A structured overview of www 3 with review questions for active recall.",
+          "timestamp": 1775249782644,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for www 3 covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 9 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after www 3",
+          "resourcesUsed": [
+            {
+              "title": "Subdomain",
+              "url": "https://en.wikipedia.org/wiki/Subdomain",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "WWW (film)",
+              "url": "https://en.wikipedia.org/wiki/WWW%20(film)",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "WWW Trilogy",
+              "url": "https://en.wikipedia.org/wiki/WWW%20Trilogy",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Two-dimensional magnetic interactions in LaFeAsO",
+              "url": "http://arxiv.org/abs/1303.4033v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Corrected Evaluation Results of the NTCIR WWW-2, WWW-3, and WWW-4 English Subtasks",
+              "url": "http://arxiv.org/abs/2210.10266v1",
+              "source": "arXiv"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "bc37b5e3-4452-4e4a-b128-0addea68450d",
+          "topic": "nlp",
+          "summary": "A structured overview of nlp with review questions for active recall.",
+          "timestamp": 1775249721162,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for nlp covered overview, concepts, subtopics, practice prompts, and linked study resources. It also had 8 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after nlp",
+          "resourcesUsed": [
+            {
+              "title": "NLP",
+              "url": "https://en.wikipedia.org/wiki/NLP",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "NLPC-P60 RNA motif",
+              "url": "https://en.wikipedia.org/wiki/NLPC-P60%20RNA%20motif",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "Neuro-linguistic programming",
+              "url": "https://en.wikipedia.org/wiki/Neuro-linguistic%20programming",
+              "source": "Wikipedia"
+            },
+            {
+              "title": "A dissemination workshop for introducing young Italian students to NLP",
+              "url": "http://arxiv.org/abs/2104.12405v2",
+              "source": "arXiv"
+            },
+            {
+              "title": "Teaching NLP with Bracelets and Restaurant Menus: An Interactive Workshop for Italian Students",
+              "url": "http://arxiv.org/abs/2104.12422v2",
+              "source": "arXiv"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "cd6fb424-4516-4e37-ae19-8285bdb8e6e6",
+          "topic": "nlp",
+          "summary": "A structured overview of nlp with review questions for active recall.",
+          "timestamp": 1775249646931,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for nlp covered overview, concepts, subtopics, and practice prompts. It also had 7 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after nlp",
+          "source": "fallback"
+        },
+        {
+          "id": "15bb7418-61bb-4941-aa44-7a4a77a58f9f",
+          "topic": "nlp",
+          "summary": "A structured overview of nlp with review questions for active recall.",
+          "timestamp": 1775249639800,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for nlp covered overview, concepts, subtopics, and practice prompts. It also had 6 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after nlp",
+          "source": "fallback"
+        },
+        {
+          "id": "c233d2c4-60c5-4c30-ab39-c601a48b9700",
+          "topic": "nlp",
+          "summary": "A structured overview of nlp with review questions for active recall.",
+          "timestamp": 1775249194703,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for nlp covered overview, concepts, subtopics, and practice prompts. It also had 5 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after nlp",
+          "source": "fallback"
+        },
+        {
+          "id": "d4ccf233-b3fe-4a66-8560-6d4f2e308146",
+          "topic": "nlp",
+          "summary": "A beginner-friendly explanation of nlp with an analogy and recall cue.",
+          "timestamp": 1775248989895,
+          "type": "clarify",
+          "reflection": "Score 100/100. The clarification simplified nlp, used an analogy, and added a memory hook. It also had 4 memory entries available for personalization. Improve next time by making the analogy even more concrete.",
+          "nextTopicSuggestion": "A slightly deeper follow-up concept related to nlp",
+          "source": "fallback"
+        },
+        {
+          "id": "6a026267-f234-4a2b-921b-30a05881df4f",
+          "topic": "nlp",
+          "summary": "A structured overview of nlp with review questions for active recall.",
+          "timestamp": 1775248975062,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for nlp covered overview, concepts, subtopics, and practice prompts. It also had 3 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after nlp",
+          "source": "fallback"
+        },
+        {
+          "id": "179144af-eab7-434a-b994-a3b66f80b63d",
+          "topic": "neural networks",
+          "summary": "A structured overview of neural networks with review questions for active recall.",
+          "timestamp": 1775248862310,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for neural networks covered overview, concepts, subtopics, and practice prompts. It also had 2 memory entries available for personalization. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after neural networks",
+          "source": "fallback"
+        },
+        {
+          "id": "0f0477f5-2ff9-407c-9e8b-1b2de1905565",
+          "topic": "neural networks",
+          "summary": "A conversational audio-style recap of neural networks.",
+          "timestamp": 1775248839050,
+          "type": "podcast",
+          "reflection": "Score 100/100. The podcast turned neural networks into a multi-voice teaching script. It also had 1 memory entries available for personalization. Improve next time by adding a stronger end recap for revision.",
+          "nextTopicSuggestion": "A next-step topic that naturally extends neural networks",
+          "source": "fallback"
+        },
+        {
+          "id": "d29d337b-c1f3-450d-95dc-807754922c23",
+          "topic": "neural networks",
+          "summary": "A structured overview of neural networks with review questions for active recall.",
+          "timestamp": 1775248799617,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for neural networks covered overview, concepts, subtopics, and practice prompts. It started from a blank memory state. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after neural networks",
+          "source": "fallback"
+        }
+      ]
+    },
+    "resource-demo": {
+      "sessionId": "resource-demo",
+      "entries": [
+        {
+          "id": "99ef9a81-ed59-4af7-bf09-b7dbf8c4907c",
+          "topic": "Neural networks",
+          "summary": "A structured overview of Neural networks with review questions for active recall.",
+          "timestamp": 1775249595609,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The guide for Neural networks covered overview, concepts, subtopics, and practice prompts. It started from a blank memory state. Improve next time by linking at least one concept to a previously studied topic even more explicitly.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after Neural networks",
+          "source": "fallback"
+        }
+      ]
+    },
+    "faae558c-70f7-42ed-aefd-dafaf95c2e91": {
+      "sessionId": "faae558c-70f7-42ed-aefd-dafaf95c2e91",
+      "entries": [
+        {
+          "id": "0fa3b9ec-305d-4f84-b16d-372b645ae6d2",
+          "topic": "give summary fo the document provided",
+          "summary": "A narrative explanation of give summary fo the document provided mapping an everyday analogy to core facts.",
+          "timestamp": 1778583126550,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for give summary fo the document provided used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 2 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after give summary fo the document provided",
+          "resourcesUsed": [
+            {
+              "title": "give summary fo the document provided on arXiv",
+              "url": "https://arxiv.org/search/?query=give%20summary%20fo%20the%20document%20provided&searchtype=all",
+              "source": "arXiv"
+            },
+            {
+              "title": "give summary fo the document provided – Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=give%20summary%20fo%20the%20document%20provided",
+              "source": "Google Scholar"
+            },
+            {
+              "title": "give summary fo the document provided – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=give%20summary%20fo%20the%20document%20provided%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "80de1a70-e9e3-475a-8995-b1103a912b10",
+          "topic": "what is python language",
+          "summary": "A narrative explanation of what is python language mapping an everyday analogy to core facts.",
+          "timestamp": 1778583045918,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for what is python language used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 1 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after what is python language",
+          "resourcesUsed": [
+            {
+              "title": "what is python language on arXiv",
+              "url": "https://arxiv.org/search/?query=what%20is%20python%20language&searchtype=all",
+              "source": "arXiv"
+            },
+            {
+              "title": "what is python language – Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=what%20is%20python%20language",
+              "source": "Google Scholar"
+            },
+            {
+              "title": "what is python language – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=what%20is%20python%20language%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        },
+        {
+          "id": "77666c1c-6fc5-4b14-9c35-aea15e30bbbb",
+          "topic": "what is dictionary in python",
+          "summary": "A narrative explanation of what is dictionary in python mapping an everyday analogy to core facts.",
+          "timestamp": 1778582929891,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for what is dictionary in python used an analogy-first approach, mapped to RAG data, and provided engaging activities. It started from a blank memory state. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "An intermediate concept that connects naturally after what is dictionary in python",
+          "resourcesUsed": [
+            {
+              "title": "what is dictionary in python on arXiv",
+              "url": "https://arxiv.org/search/?query=what%20is%20dictionary%20in%20python&searchtype=all",
+              "source": "arXiv"
+            },
+            {
+              "title": "what is dictionary in python – Google Scholar",
+              "url": "https://scholar.google.com/scholar?q=what%20is%20dictionary%20in%20python",
+              "source": "Google Scholar"
+            },
+            {
+              "title": "what is dictionary in python – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=what%20is%20dictionary%20in%20python%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "fallback"
+        }
+      ]
+    },
+    "aa86f4db-fddf-47a4-8c53-92464d30def6": {
+      "sessionId": "aa86f4db-fddf-47a4-8c53-92464d30def6",
+      "entries": [
+        {
+          "id": "0c0e7544-9a50-488a-af88-361b181200d5",
+          "topic": "what is cell wall",
+          "summary": "The cell wall is a rigid, protective outer layer found in plant, fungal, and bacterial cells, providing essential structural support, protection, and helping to maintain cell shape and turgor pressure.",
+          "timestamp": 1779053186150,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for what is cell wall used an analogy-first approach, mapped to RAG data, and provided engaging activities. It also had 1 memory entries available for personalization. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "Cell Membrane: The Dynamic Gatekeeper",
+          "resourcesUsed": [
+            {
+              "title": "Wall modeling via function enrichment: extension to detached-eddy simulation",
+              "url": "http://arxiv.org/abs/1712.08469v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "Wall modeling via function enrichment within a high-order DG method for RANS simulations of incompressible flow",
+              "url": "http://arxiv.org/abs/1610.08205v1",
+              "source": "arXiv"
+            },
+            {
+              "title": "A multiscale approach to hybrid RANS/LES wall modeling within a high-order discontinuous Galerkin scheme using function enrichment",
+              "url": "http://arxiv.org/abs/1705.08813v2",
+              "source": "arXiv"
+            },
+            {
+              "title": "what is cell wall – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=what%20is%20cell%20wall%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "gemini"
+        },
+        {
+          "id": "54ae2bb3-17ce-4f9e-8375-daef6072a27d",
+          "topic": "what is cell",
+          "summary": "Cells are the fundamental building blocks of all living things, performing specialized functions that collectively enable life, much like individual buildings in a city contribute to its overall function.",
+          "timestamp": 1779052794878,
+          "type": "study_guide",
+          "reflection": "Score 100/100. The masterclass for what is cell used an analogy-first approach, mapped to RAG data, and provided engaging activities. It started from a blank memory state. Improve next time by ensuring the analogy maps perfectly to the specific textbook definitions.",
+          "nextTopicSuggestion": "Cell Organelles: The Mini-Factories Inside Every Cell",
+          "resourcesUsed": [
+            {
+              "title": "Modeling adult skeletal stem cell response to laser-machined topographies through deep learning",
+              "url": "http://arxiv.org/abs/2006.00248v2",
+              "source": "arXiv"
+            },
+            {
+              "title": "Non-genetic heterogeneity criticality and cell differentiation",
+              "url": "http://arxiv.org/abs/1405.1206v3",
+              "source": "arXiv"
+            },
+            {
+              "title": "Minimal cellular automaton model with heterogeneous cell sizes predicts epithelial colony growth",
+              "url": "http://arxiv.org/abs/2403.07612v2",
+              "source": "arXiv"
+            },
+            {
+              "title": "what is cell – YouTube educational search",
+              "url": "https://www.youtube.com/results?search_query=what%20is%20cell%20explained",
+              "source": "YouTube"
+            }
+          ],
+          "source": "gemini"
+        }
+      ]
+    }
+  }
+}
